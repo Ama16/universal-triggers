@@ -1,5 +1,5 @@
 # universal-triggers
-[Статья](https://arxiv.org/pdf/1908.07125.pdf)
+[Статья](https://arxiv.org/pdf/1908.07125.pdf) (Universal Adversarial Triggers for Attacking and Analyzing NLP)
 
 В статье описывается метод поиска универсальных триггеров для различных задач и моделей.
 
